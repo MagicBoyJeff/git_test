@@ -11,6 +11,8 @@ public class GitTestApplicationTests {
 
     @Test
     public void contextLoads() {
+
+        int a =10;
     }
 
 }
